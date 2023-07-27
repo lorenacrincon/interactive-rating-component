@@ -1,0 +1,23 @@
+.ilustration {
+  display: flex;
+  justify-content: center;
+}
+
+.badge-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  background-color: hsla(217, 12%, 63%, 0.1);
+  color: var(--orange);
+  padding: 7px;
+  border-radius: 30px;
+}
+
+.container-content-thank {
+  margin: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
