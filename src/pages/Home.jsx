@@ -1,6 +1,5 @@
 import React from "react";
 import Ranking from "../components/Ranking";
-import Submit from "../components/Submit";
 import starIcon from "../assets/icon-star.svg";
 
 function home() {
@@ -18,7 +17,6 @@ function home() {
           </p>
 
           <Ranking />
-          <Submit />
         </div>
       </div>
     </>
