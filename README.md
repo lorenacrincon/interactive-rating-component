@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktop-preview.jpg)
+![](/public/desktop-preview.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/lorenacrincon/interactive-rating-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub repository](https://github.com/lorenacrincon/interactive-rating-component)
+- Live Site URL: [Click Here](https://your-live-site-url.com)
 
 ## My process
 
