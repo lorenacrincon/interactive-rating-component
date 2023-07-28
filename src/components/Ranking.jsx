@@ -10,7 +10,6 @@ function Ranking() {
 
   const handleRankingClick = (number) => {
     setSelectedValue(number);
-    console.log(number);
   };
 
   const handleSubmit = (event) => {
