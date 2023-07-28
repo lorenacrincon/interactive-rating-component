@@ -24,14 +24,15 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
-### Screenshot
+### Screenshots
 
-![](/public/desktop-preview.jpg)
+![](/public/desktop-preview-1.png)
+![](/public/desktop-preview-2.png)
 
 ### Links
 
 - Solution URL: [GitHub repository](https://github.com/lorenacrincon/interactive-rating-component)
-- Live Site URL: [Click Here](https://your-live-site-url.com)
+- Live Site URL: [Click Here](https://lorenacrincon.github.io/interactive-rating-component/)
 
 ## My process
 
